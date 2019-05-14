@@ -1,8 +1,8 @@
 # Site settings
-title: Woods Blog
-SEOTitle: Woods Blog
+title: guolin Blog
+SEOTitle: guolin Blog
 header-img: img/home-bg.jpg
-email: wsjwoods555@163.com
+email: 13021910911@163.com
 description: "这个人很勤快，什么都留下了。"
 keyword: ""
 #url: ""              # your host, for absolute URL
@@ -12,11 +12,11 @@ keyword: ""
 
 # SNS settings
 RSS: false
-weibo_username:     wsjwoods
-zhihu_username:     wsjwoods
-github_username:    wsjwoods
+weibo_username:     guolin
+zhihu_username:     guolin
+github_username:    guolin
 #twitter_username:  huxpro
-facebook_username:  wsjwoods
+facebook_username:  guolin
 
 
 
@@ -64,7 +64,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写大数据Blog"
+sidebar-about-description: "大数据道路留点什么"
 #sidebar-avatar: /img/autor-woods.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-avatar: /img/head-woods2.jpg   
 
