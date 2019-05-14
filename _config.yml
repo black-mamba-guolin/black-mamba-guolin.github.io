@@ -43,7 +43,7 @@ plugins: [jekyll-paginate]
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-kramdown:
+kramdown:guolin.github.io
   input: GFM                            # use Github Flavored Markdown !important
 
 
@@ -66,7 +66,7 @@ ga_domain: auto
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "大数据道路留点什么"
 #sidebar-avatar: /img/autor-woods.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: /img/head-woods2.jpg   
+sidebar-avatar: 
 
 
 # Featured Tags
@@ -78,7 +78,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "woods Blog",
+        title: "guolin Blog",
         href: ""
     },{
         title: "Foo",
